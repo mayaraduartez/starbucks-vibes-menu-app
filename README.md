@@ -30,4 +30,5 @@ Banco: appStarbucks.db (SQLite, criado automaticamente).
 
 Ajuste tema/cores em styles (palette deep/mint/primary).
 
-##  Licença MIT
+
+
