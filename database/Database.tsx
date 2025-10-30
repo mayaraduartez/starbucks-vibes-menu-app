@@ -10,7 +10,7 @@ const tableItemMenu = "itemmenu";
 
 export class Database {
     static getConnection() {
-        return SQLite.openDatabaseAsync("appMayara.db");
+        return SQLite.openDatabaseAsync("appStarbucks.db");
     }
 
     static async initDb(syncDb?: boolean) {
