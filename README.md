@@ -1,4 +1,4 @@
-# Starbucks Vibes Menu App ☕️💚
+# Starbucks Vibes Menu App 
 
 App mobile em **React Native (Expo)** com estética Starbucks para gerenciar **cardápio, favoritos e pedidos**, além de exibir **cafeterias no mapa**. Usa **SQLite** para persistência e **Drawer** customizado (deep/mint).
 
@@ -29,6 +29,7 @@ npx expo start --tunnel  # se precisar acessar de fora da rede
 Banco: appStarbucks.db (SQLite, criado automaticamente).
 
 Ajuste tema/cores em styles (palette deep/mint/primary).
+
 
 
 
